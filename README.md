@@ -24,3 +24,4 @@ Once the circuit is built in Tinkercad, the code is written using the built-in A
 In conclusion, this Home Automation System is a simple yet effective project to demonstrate the core idea behind smart homes. It shows how microcontrollers like the Arduino Uno can be used to control devices, how simulations can be conducted using Tinkercad, and how fundamental components like LEDs and resistors form the backbone of larger automation systems.
 
 
+![Image](https://github.com/user-attachments/assets/13934a92-b8d3-4d95-b073-b9d10649dbff)
