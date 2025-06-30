@@ -1,0 +1,15 @@
+int led1 = 2;  // Red LED
+int led2 = 3;  // Orange/Yellow LED
+
+void setup() {
+  pinMode(led1, OUTPUT);
+  pinMode(led2, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(led1, HIGH);  // Turn ON Red LED
+  digitalWrite(led2, LOW);   // Turn OFF Orange LED
+  delay(1000);               // Wait for 1 second
+
+  digitalWrite(led1, LOW);   // Turn OFF Red LED
+  digitalWrite(led2, HIGH);
